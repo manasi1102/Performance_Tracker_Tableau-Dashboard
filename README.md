@@ -69,9 +69,8 @@ Open the `.twb` file in **Tableau Desktop/Public**.
 performance-tracker/
 │
 ├── README.md                   # Project documentation
-├── Performance_Tracker.twb      # Tableau workbook file
-├── Screenshot.png               # Dashboard preview image
-└── Data/                        # (Optional) Raw dataset folder if included
+├── Performance_Tracker.twbx      # Tableau workbook file
+├── image.png               # Dashboard preview image
 ```
 
 ## Acknowledgments
