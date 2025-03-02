@@ -48,7 +48,7 @@ The **Performance Tracker** dashboard is designed to:
 3. Export reports as needed using the **download options** provided in the dashboard.
 
 ## Visual Preview
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](image.png)
 
 ## Requirements
 To view or modify the dashboard:
